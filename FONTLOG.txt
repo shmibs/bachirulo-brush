@@ -1,5 +1,9 @@
 Changelog
 ---------
 
+22 Apr, 2019 version 1.001
+- adjust glyph dimensions
+- add tables for OTF's `vert` and `vrt2` vertical glyph substitutions
+
 21 Apr, 2019 version 1.0
 - initial release
