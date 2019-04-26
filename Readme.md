@@ -15,7 +15,8 @@ these glyphs directly to the languages' romanisation, like so:
 
 ![n'chigulon](img/n%27chigulon.png)
 
-check back later for more information ^_^
+for more information (as it slowly manifests), take a look at my website:
+https://airen-no-jikken.icu
 
 [1]: https://en.wikipedia.org/wiki/Mora_(linguistics)
 [2]: https://en.wikipedia.org/wiki/Syllabary
