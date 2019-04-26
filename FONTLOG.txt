@@ -1,6 +1,10 @@
 Changelog
 ---------
 
+15 Apr, 2019 version 1.100
+- adjust horizontal char's positioning
+- add horizontal kerning
+
 22 Apr, 2019 version 1.001
 - adjust glyph dimensions
 - add tables for OTF's `vert` and `vrt2` vertical glyph substitutions

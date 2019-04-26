@@ -6,6 +6,9 @@ bachirulo brush
 a brush-and-ink calligraphy font for galu (![galu](img/galu.png)), a conlang
 i'm currently designing
 
+for the computer-font variant, see here:
+https://github.com/shmibs/bachirulo-type
+
 galu's sounds are composed of [morae][1], and written using a [syllabary][2]
 with [diacritics][3], but for convenience sake this font uses ligatures to map
 these glyphs directly to the languages' romanisation, like so:
